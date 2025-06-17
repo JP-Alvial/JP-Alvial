@@ -1,7 +1,8 @@
-<h1>Hola soy Juan Pablo Alvial Araya.</h1>
+<h1 align="center">Juan Pablo Alvial Araya</h1>
+<h3 align="center">Ingeniero civil mecatrónico, Chile</h3>
 
 <!-- Short Bio -->
-<p> Ingeniero Civil Mecatrónico recién egresado, con experiencia en desarrollo de sistemas embebidos, automatización industrial y diseño CAD. Me destaco por mi capacidad de adaptación, aprendizaje rápido y colaboración en equipos multidisciplinarios. Motivado por la innovación tecnológica, busco integrarme a proyectos donde pueda aportar valor desde lo técnico y seguir creciendo profesionalmente.</p>
+<p> Hola, soy un entusiasta de la programación y del desarrollo de firmware y hardware para dispositivos. Gracias a mi formación universitaria, poseo conocimientos en diseño mecánico y modelado 3D, así como en electrónica y programación. Con estas habilidades desarrollé mi proyecto más destacado: el diseño y construcción de robots diferenciales, en los que implementé algoritmos de agregación utilizando el middleware ROS2.</p>
 
 
 <!-- Tech Stack -->
@@ -18,18 +19,35 @@
 			<img alt="C" src="https://img.shields.io/badge/C-05122A?logo=c&style=flat">
 			<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-05122A?logo=cplusplus&style=flat">
 			<img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
-			<img src="https://img.shields.io/badge/Shell%20Script-05122A?style=flat&logo=gnu-bash&logoColor=white" alt="Shell script">
+			<img src="https://img.shields.io/badge/Ladder-05122A?">
+			<img src="https://img.shields.io/badge/Matlab-05122A?">
+			<img src="https://img.shields.io/badge/Verilog-05122A?">
 		</kbd>
 	</p>
 	<p>
 		<kbd>
-			<kbd>Software y herrameintas</kbd>
+			<kbd>Software y herrameintas de programación</kbd>
 			<br>
 			<br>
 			<img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
 			<img alt="Github Desktop" src="https://img.shields.io/badge/Github%20Desktop-05122A?style=flat&logo=Github">
 			<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=Jupyter">
 			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code">
+			<img alt="Ubuntu" src="https://img.shields.io/badge/ubuntu-05122A?style=flat&logo=ubuntu">
+			<img alt="PlatfomIO" src="https://img.shields.io/badge/platformio-05122A?style=flat&logo=platformio">
+		</kbd>
+	</p>
+	<p>
+		<kbd>
+			<kbd>Software de diseño</kbd>
+			<br>
+			<br>
+			<img alt="LTspice" src="https://img.shields.io/badge/LTspice-05122A?style=flat&logo=ltspice">
+   			<img alt="Proteus" src="https://img.shields.io/badge/proteus-05122A?style=flat&logo=proteus">
+			<img alt="EasyEDA" src="https://img.shields.io/badge/easyeda-05122A?style=flat&logo=easyeda">
+			<img alt="Eagle" src="https://img.shields.io/badge/autodesk-05122A?style=flat&logo=autodesk">
+			<img alt="Solid%Works" src="https://img.shields.io/badge/dassaultsystemes-05122A?style=flat&logo=dassaultsystemes">
+			<img alt="AutoCAD" src="https://img.shields.io/badge/autocad-05122A?style=flat&logo=autocad">
 		</kbd>
 	</p>
     </p>
@@ -90,9 +108,9 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
 
 
 <!-- Activity Graph card -->
+<!--</br>
 </br>
-</br>
-<h2>Activity Graph</h2>
+<h2>Activity Graph</h2>-->
 
 
 
